@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="/public/logo.webp" height="100" width="100" alt="logo"/>
-  <h1>Bakin Lane</h1>
-    <p>Are you also the foodie? Do you love Desserts? <a href="https://bakin-lane.netlify.app/">Bakin Lane</a> is for you! Its the E-Commerce Website for different varieties of Cakes and Muffins. Checkout the source code for backend <a href="https://github.com/romabulani/bakinlane-backend">here</a>.</p>
+  <h1>Abdaal</h1>
+    <p>Are you also the foodie? Do you love Desserts?US Confectionery</a> is for you! Its the E-Commerce Website for different varieties of Cakes and Muffins. Checkout the source code for backend here</a>.</p>
  </div>
 
 ## How to run the app locally?
 ```
-$ git clone https://github.com/romabulani/bakinLane-react.git
-$ cd bakinLane-react
+$ git clone https://github.com/abdaalali12/us-confec.git
+$ cd us-confec
 $ npm install
 $ npm start
 ```
@@ -52,12 +52,8 @@ $ npm start
 - Netlify for Deployment
 - Cloudinary for Image Hosting
 
-## Live Link
-[Bakin Lane](https://bakin-lane.netlify.app/)
-
-## Demo Video
 
 
-https://user-images.githubusercontent.com/42478246/162211217-4ed1f95c-3c57-4557-ae39-d7e97a4aba1a.mp4
+
 
 

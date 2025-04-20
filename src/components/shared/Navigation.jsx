@@ -57,7 +57,7 @@ function Navigation() {
             <img src={logo} alt="muffin-logo" className="logo" />
           </Link>
           <Link to="/" className="brand-name">
-            Bakin Lane
+            US Confectionery
           </Link>
           <NavLink
             to="/"

@@ -26,7 +26,7 @@ function HeroSection() {
     <div className="middle-content">
       <div className="hero-container">
         <div className="hero-content">
-          <h2 className="heading2 keyword">Bakin Lane</h2>
+          <h2 className="heading2 keyword">US Confectionery</h2>
           <h4 className="heading4 keyword">Every occasion deserves a cake!</h4>
           <h4 className="heading4 text-center">
             Hurry!! Upto 15% OFF on most of the products!!
